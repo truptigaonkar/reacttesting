@@ -1,0 +1,8 @@
+Testing todo app with enzyme
+
+$ npx -i install create-react-app testing
+
+PS E:\frontwebutvecklare\projects\testing> npm install --save enzyme enzyme-adapter-react-16 react-test-renderer axios
+
+$ npm start
+$ npm run test
